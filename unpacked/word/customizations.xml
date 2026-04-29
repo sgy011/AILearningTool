@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wne:tcg xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml">
+  <wne:keymaps>
+    <wne:keymap wne:kcmPrimary="0230">
+      <wne:acd wne:acdName="acd0"/>
+    </wne:keymap>
+    <wne:keymap wne:kcmPrimary="0231">
+      <wne:acd wne:acdName="acd1"/>
+    </wne:keymap>
+    <wne:keymap wne:kcmPrimary="0232">
+      <wne:acd wne:acdName="acd2"/>
+    </wne:keymap>
+    <wne:keymap wne:kcmPrimary="0233">
+      <wne:acd wne:acdName="acd3"/>
+    </wne:keymap>
+    <wne:keymap wne:kcmPrimary="0234">
+      <wne:acd wne:acdName="acd4"/>
+    </wne:keymap>
+    <wne:keymap wne:kcmPrimary="0235">
+      <wne:acd wne:acdName="acd5"/>
+    </wne:keymap>
+    <wne:keymap wne:kcmPrimary="0236">
+      <wne:acd wne:acdName="acd6"/>
+    </wne:keymap>
+    <wne:keymap wne:kcmPrimary="0237">
+      <wne:acd wne:acdName="acd7"/>
+    </wne:keymap>
+    <wne:keymap wne:kcmPrimary="0238">
+      <wne:acd wne:acdName="acd8"/>
+    </wne:keymap>
+    <wne:keymap wne:kcmPrimary="0239">
+      <wne:acd wne:acdName="acd9"/>
+    </wne:keymap>
+  </wne:keymaps>
+  <wne:toolbars>
+    <wne:acdManifest>
+      <wne:acdEntry wne:acdName="acd0"/>
+      <wne:acdEntry wne:acdName="acd1"/>
+      <wne:acdEntry wne:acdName="acd2"/>
+      <wne:acdEntry wne:acdName="acd3"/>
+      <wne:acdEntry wne:acdName="acd4"/>
+      <wne:acdEntry wne:acdName="acd5"/>
+      <wne:acdEntry wne:acdName="acd6"/>
+      <wne:acdEntry wne:acdName="acd7"/>
+      <wne:acdEntry wne:acdName="acd8"/>
+      <wne:acdEntry wne:acdName="acd9"/>
+    </wne:acdManifest>
+  </wne:toolbars>
+  <wne:acds>
+    <wne:acd wne:argValue="AgBja4dltWs9hA==" wne:acdName="acd0" wne:fciIndexBasedOn="0065"/>
+    <wne:acd wne:argValue="AQAAAAEA" wne:acdName="acd1" wne:fciIndexBasedOn="0065"/>
+    <wne:acd wne:argValue="AQAAAAIA" wne:acdName="acd2" wne:fciIndexBasedOn="0065"/>
+    <wne:acd wne:argValue="AQAAAAMA" wne:acdName="acd3" wne:fciIndexBasedOn="0065"/>
+    <wne:acd wne:argValue="AQAAAAQA" wne:acdName="acd4" wne:fciIndexBasedOn="0065"/>
+    <wne:acd wne:argValue="AQAAAAUA" wne:acdName="acd5" wne:fciIndexBasedOn="0065"/>
+    <wne:acd wne:argValue="AQAAAAYA" wne:acdName="acd6" wne:fciIndexBasedOn="0065"/>
+    <wne:acd wne:argValue="AQAAAAcA" wne:acdName="acd7" wne:fciIndexBasedOn="0065"/>
+    <wne:acd wne:argValue="AQAAAAgA" wne:acdName="acd8" wne:fciIndexBasedOn="0065"/>
+    <wne:acd wne:argValue="AQAAAAkA" wne:acdName="acd9" wne:fciIndexBasedOn="0065"/>
+  </wne:acds>
+</wne:tcg>
